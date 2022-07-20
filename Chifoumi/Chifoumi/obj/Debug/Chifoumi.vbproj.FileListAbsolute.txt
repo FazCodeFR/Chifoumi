@@ -1,0 +1,12 @@
+C:\Users\DEV\Documents\Visual Studio 2017\Chifoumi\Chifoumi\bin\Debug\Chifoumi.exe.config
+C:\Users\DEV\Documents\Visual Studio 2017\Chifoumi\Chifoumi\bin\Debug\Chifoumi.exe
+C:\Users\DEV\Documents\Visual Studio 2017\Chifoumi\Chifoumi\bin\Debug\Chifoumi.pdb
+C:\Users\DEV\Documents\Visual Studio 2017\Chifoumi\Chifoumi\bin\Debug\Chifoumi.xml
+C:\Users\DEV\Documents\Visual Studio 2017\Chifoumi\Chifoumi\obj\Debug\Chifoumi.vbprojAssemblyReference.cache
+C:\Users\DEV\Documents\Visual Studio 2017\Chifoumi\Chifoumi\obj\Debug\Chifoumi.Form1.resources
+C:\Users\DEV\Documents\Visual Studio 2017\Chifoumi\Chifoumi\obj\Debug\Chifoumi.Resources.resources
+C:\Users\DEV\Documents\Visual Studio 2017\Chifoumi\Chifoumi\obj\Debug\Chifoumi.vbproj.GenerateResource.cache
+C:\Users\DEV\Documents\Visual Studio 2017\Chifoumi\Chifoumi\obj\Debug\Chifoumi.vbproj.CoreCompileInputs.cache
+C:\Users\DEV\Documents\Visual Studio 2017\Chifoumi\Chifoumi\obj\Debug\Chifoumi.exe
+C:\Users\DEV\Documents\Visual Studio 2017\Chifoumi\Chifoumi\obj\Debug\Chifoumi.xml
+C:\Users\DEV\Documents\Visual Studio 2017\Chifoumi\Chifoumi\obj\Debug\Chifoumi.pdb
