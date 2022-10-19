@@ -1,7 +1,13 @@
 # Chifoumi
-Chifoumi minimaliste en VB.NET Winform (projet personnel)
+Chifoumi minimaliste
 
-Temps de réalisation : 5h
+Technologie : VB.NET Winform 
+
+Projet :  Personnel
+
+Temps de réalisation : 1H30
+
+Date : 2019
 
 
 ## Résultat visuel : 
